@@ -1,4 +1,4 @@
-#bookbot
+# bookbot
 This project is a clean, command-line tool designed to perform a static analysis of text files—perfect for when you need to know exactly how many times an author used the letter  instead of actually reading the book.
 
 Overview
@@ -44,4 +44,4 @@ number_of_characters: Iterates through the text to build a frequency dictionary 
 
 dirctory_to_array: Converts the dictionary into a list of dictionaries and sorts them using a helper function.
 
-# bookbot
+
