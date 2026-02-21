@@ -1,5 +1,5 @@
 #bookbot
-This project is a clean, command-line tool designed to perform a static analysis of text files—perfect for when you need to know exactly how many times an author used the letter 'e' instead of actually reading the book.
+This project is a clean, command-line tool designed to perform a static analysis of text files—perfect for when you need to know exactly how many times an author used the letter  instead of actually reading the book.
 
 Overview
 The Book Analyzer processes a text file to provide two primary insights:
